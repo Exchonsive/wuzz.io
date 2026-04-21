@@ -335,7 +335,7 @@ p {
 .result-price {
     font-size: 2rem;
     font-weight: 700;
-    color: var(--primary-light);
+    color: var(--white);
     margin-bottom: 0.5rem;
 }
 
