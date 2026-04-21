@@ -1,8 +1,6 @@
 # 🚚 Wuzz - Jasa Pindahan Profesional
 Wuzz adalah platform digital untuk layanan pindahan rumah dan kantor yang modern, aman, dan terpercaya. Kami menyediakan solusi pindahan yang mudah dan efisien dengan harga transparan.
 
-![Wuzz](img/wuzz.png)
-
 ## 📋 Daftar Isi
 
 - [Fitur Utama](#fitur-utama)
